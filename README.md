@@ -14,4 +14,4 @@ This project is a React app called Emme’s Wildlife Sanctuary, where you can le
 challenges: 
 Figuring out how to toggle the favorite status for each animal was a bit tricky at first, but I used the useState hook and wrote a simple handleFavClick function that updates the favorites list without repeating code, which worked really well. Handling the JSON data for the animals was another challenge because I had to make sure everything was structured consistently so it worked smoothly with the React components, but once I formatted the file properly, mapping it into the app was pretty straightforward. Making the app look good on different devices took some effort too, but using CSS flexbox and grid and testing on various screen sizes helped a lot. Overall, working through these challenges helped me get a better handle on React state, JSON, and debugging. (This assignment also made me a little bit sad because of seeing how low some of the numbers were for some animals! sniff.)
 
-!!!
+
