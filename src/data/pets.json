@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Bengal Tiger",
+      "species": "Tiger",
+      "image": "./src/assets/tiger.jpg",
+      "description": "Fewer than 2,500 remain in the wild, primarily found in India and Southeast Asia. Critically endangered due to habitat loss and poaching."
+    },
+    {
+      "id": 2,
+      "name": "Bornean Orangutan",
+      "species": "Orangutan",
+      "image": "./src/assets/monkey.jpg",
+      "description": "Approximately 104,700 remain, living mostly in Borneo. Critically endangered due to deforestation and illegal hunting."
+    },
+    {
+      "id": 3,
+      "name": "Javan Rhino",
+      "species": "Rhino",
+      "image": "./src/assets/rhino.jpg",
+      "description": "Only about 76 individuals are left, all in Ujung Kulon National Park in Indonesia. One of the rarest rhino species, critically endangered."
+    },
+    {
+      "id": 4,
+      "name": "Mountain Gorilla",
+      "species": "Gorilla",
+      "image": "./src/assets/gorilla.jpg",
+      "description": "About 1,063 remain in the wild, located in the mountainous regions of Rwanda, Uganda, and the Democratic Republic of Congo. Endangered due to habitat loss and poaching."
+    },
+    {
+      "id": 5,
+      "name": "Hawksbill Sea Turtle",
+      "species": "Sea Turtle",
+      "image": "./src/assets/seaturtle.jpg",
+      "description": "Population is estimated at fewer than 25,000 nesting females, found in tropical waters worldwide. Critically endangered due to poaching for their shells and loss of nesting habitats."
+    },
+    {
+      "id": 6,
+      "name": "Vaquita",
+      "species": "Porpoise",
+      "image": "./src/assets/vaquita.webp",
+      "description": "Only about 10 individuals are left in the wild, found in the northern part of the Gulf of California, Mexico. Critically endangered due to bycatch in illegal fishing nets."
+    }
+  ]
