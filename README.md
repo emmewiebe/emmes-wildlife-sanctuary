@@ -3,7 +3,7 @@ FOR ASSIGNMENT:
 to run: 
 Go to the project folder: cd <emmes-wildlife-sanctuary>
 	3.	Install the dependencies: npm install
-	4.	Start the app: npm start
+	4.	Start the app: npm run dev
 	5.	Open your browser and go to http://localhost:3000 to see it in action!
 
 This project is a React app called Emme’s Wildlife Sanctuary, where you can learn about endangered animals and their conservation status. It features a list of species with details like how many are left and why they’re endangered, and you can mark your favorite ones to keep track of them. It’s a simple, interactive way to raise awareness and inspire people to care about wildlife.
